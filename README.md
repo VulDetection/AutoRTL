@@ -4,7 +4,11 @@ This repository corresponds to the paper "Follow the Playbook: Expert Behavior M
 
 # Step1: 
 
+In the to_COT file, we transform ordinary prompts into basic COT prompting and our module-level design prompting framework.
+
 # Step2: 
+
+
 
 # Step3: 
 
