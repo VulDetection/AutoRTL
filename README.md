@@ -4,14 +4,16 @@ This repository corresponds to the paper "Follow the Playbook: Expert Behavior M
 
 # Step1: 
 
-In the to_COT file, we transform ordinary prompts into basic COT prompting and our module-level design prompting framework.
+In the to_COT folder, we transform ordinary prompts into basic COT prompting and our module-level design prompting framework.
 
 # Step2: 
-
+In the ResBench folder, generate_api.py generates code using foundational models such as GPT, and generate_LLMs.py generates code using Code Models.
+The other files in the ResBench folder contain our pre-generated code.functional_correctness.py is a computational metric.
 
 
 # Step3: 
-
+In the RTLLM V1.1 folder, generate_api.py generates code using foundational models such as GPT, and generate_LLMs.py generates code using Code Models.
+The other files in the ResBench folder contain our pre-generated code.functional_correctness.py is a computational metric.
 
 The figure below shows the behavioral model we have constructed. 
 
